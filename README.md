@@ -13,13 +13,13 @@ App looks like this
 
 
 1.
-![alt Home Page/Organization List](https://raw.githubusercontent.com/manvendra09/React-Demo/Screenshot (196).png)
+![alt Home Page/Organization List](https://github.com/manvendra09/React-Demo/blob/memendra/Screenshot%20(196).png)
 
 2.
-![alt RepositoryList for current Organization](https://raw.githubusercontent.com/manvendra09/React-Demo/Screenshot (197).png)
+![alt RepositoryList for current Organization](https://github.com/manvendra09/React-Demo/blob/memendra/Screenshot%20(197).png)
 
 3.
-![alt Repository Details](https://raw.githubusercontent.com/manvendra09/React-Demo/Screenshot (198).png)
+![alt Repository Details](https://github.com/manvendra09/React-Demo/blob/memendra/Screenshot%20(198).png)
 
 
 
